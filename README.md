@@ -10,8 +10,8 @@ Simple periodic table for dear imgui.
 Created as a background element for a game I'm writing in my spare time.
 
 If you want to use it: 
- 1  Add ImPeriodicTable.cpp to your project.
- 2  Add the declaration extern void ShowPeriodicTable(); to a file where you want to use it.
- 3  Call ShowPeriodicTable(); function.
+ 1.  Add ImPeriodicTable.cpp to your project.
+ 2.  Add the declaration extern void ShowPeriodicTable(); to a file where you want to use it.
+ 3.  Call ShowPeriodicTable(); function.
  
  
